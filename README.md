@@ -130,5 +130,9 @@ Validate and Test the ServerlessRestAPI under API gateway
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
+<img width="968" height="422" alt="image" src="https://github.com/user-attachments/assets/2715c7a2-3794-4f4b-ba02-88aeed2acbbc" />
+
+------------------------------------------------------------------------------------------------------------------------------------
+
 **The above Project implemented a CI/CD pipeline that automates the deployment of this serverless application (AWS Lambda function) by leveraging AWS services such as AWS CodePipeline, CodeBuild, CodeDeploy, AWS CloudFormation and Amazon S3.**
 
