@@ -36,3 +36,5 @@ As a cloud solutions architect at Weather Metrics, you are responsible for orche
 -	Validate the Lambda function deployed under CloudFormation Stack.
 -	Validate and Test the ServerlessRestAPI under API gateway.
 
+## Output Results Screenshots:
+
